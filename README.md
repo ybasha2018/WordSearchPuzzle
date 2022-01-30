@@ -14,5 +14,5 @@ The program will ask the user for the length and width of their desired word sea
 
 
 # Output
-![output](output.png)
+![output](./output.png)
 
