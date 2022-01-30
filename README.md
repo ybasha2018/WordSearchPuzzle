@@ -10,8 +10,9 @@ Given a .words file as a the first argument to the program with a list of words,
 The program will ask the user for the length and width of their desired word search puzzle as well as the title for their crossword puzzle. The program will appropriately output the puzzle and list of words given to the output file. 
 
 # Example
+![example](./ex1.png)
 
-![hello](./ex1.png)
 
-
+# Output
+![output](output.png)
 
